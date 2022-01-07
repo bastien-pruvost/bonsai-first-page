@@ -1,6 +1,7 @@
 # training_fromscratch_integration
-*FR*
+
+-FR-
 Projet d'entrainement sur l'intégration en HTML et CSS
 
-*EN*
+-EN-
 Training project on integration in HTML and CSS
