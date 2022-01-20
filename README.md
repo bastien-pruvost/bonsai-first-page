@@ -1,4 +1,4 @@
-# training_fromscratch_integration  
+# Training - From Scratch Website
   
 ## Training project on integration in HTML and CSS  
 The website is based on the theme of bonsai, simple but rather nice I think..  
