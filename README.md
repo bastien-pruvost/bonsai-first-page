@@ -1,4 +1,4 @@
-<a href="https://bonsai.pruvostbastien.fr/"><img src="https://img.shields.io/badge/click_here_to_see_the_website-100000?style=for-the-badge&logo=github&logoColor=white" alt="Dev_Bastien" /></a>
+<a href="https://bonsai.pruvostbastien.fr/" target="_blank"><img src="https://img.shields.io/badge/ctrl_%2B_click_here_to_see_the_website-324050?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 # Training - From Scratch Website
   
