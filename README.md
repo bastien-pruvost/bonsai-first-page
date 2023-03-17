@@ -10,25 +10,13 @@ https://github.com/bastien-pruvost/bonsai-first-page
 
  -->
 
+# Bonsai - My first web page
 
+[bonsai.pruvostbastien.fr](https://bonsai.pruvostbastien.fr)
 
-<div align="center">
-  <h3 align="center">Bonsai - My first web page</h3>
+My first web page, coded with HTML and CSS.
 
-  <p align="center">
-    <a href="https://www.bonsai.pruvostbastien.fr/">bonsai.pruvostbastien.fr</a>
-    <br />
-    <br />
-      My first web page, coded with HTML and CSS.
-    <br />
-    <br />
-    <a href="https://github.com/bastien-pruvost/bonsai-first-page/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/bastien-pruvost/bonsai-first-page/issues">Request Feature</a>
-    <br />
-    <br />
-  </p>
-</div>
+[Report Bug](https://github.com/bastien-pruvost/bonsai-first-page/issues) . [Request Feature](https://github.com/bastien-pruvost/bonsai-first-page/issues)
 
 
 ## About the project
