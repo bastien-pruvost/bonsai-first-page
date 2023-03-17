@@ -13,7 +13,7 @@ https://github.com/bastien-pruvost/bonsai-first-page
 
 
 <div align="center">
-  <h1 align="center">Bonsai - My first web page</h1>
+  <h3 align="center">Bonsai - My first web page</h3>
 
   <p align="center">
     <a href="https://www.bonsai.pruvostbastien.fr/">bonsai.pruvostbastien.fr</a>
