@@ -33,7 +33,7 @@ https://github.com/bastien-pruvost/bonsai-first-page
 
 ## About the project
 
-The first project I did when I decided to learn web development in 2021. Today I don't regret my choice
+The first project I did when I decided to learn web development in 2021.
 
 
 ## Features
