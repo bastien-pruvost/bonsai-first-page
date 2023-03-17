@@ -2,7 +2,7 @@
 
 <!-- Rename all occurences with Cmd + D :
 
-Project Name
+Bonsai - My first web page
 bonsai-first-page
 bonsai.pruvostbastien.fr
 https://www.bonsai.pruvostbastien.fr/
@@ -12,11 +12,9 @@ https://github.com/bastien-pruvost/bonsai-first-page
 
 # Bonsai - My first web page
 
-[bonsai.pruvostbastien.fr](https://bonsai.pruvostbastien.fr)
-
 My first web page, coded with HTML and CSS.
 
-[Report Bug](https://github.com/bastien-pruvost/bonsai-first-page/issues) . [Request Feature](https://github.com/bastien-pruvost/bonsai-first-page/issues)
+[bonsai.pruvostbastien.fr](https://bonsai.pruvostbastien.fr)
 
 
 ## About the project
