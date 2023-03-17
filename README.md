@@ -5,7 +5,7 @@
 Bonsai - My first web page
 bonsai-first-page
 bonsai.pruvostbastien.fr
-https://www.bonsai.pruvostbastien.fr/
+https://bonsai.pruvostbastien.fr/
 https://github.com/bastien-pruvost/bonsai-first-page
 
  -->
